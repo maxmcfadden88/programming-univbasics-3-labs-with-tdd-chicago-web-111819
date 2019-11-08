@@ -8,7 +8,7 @@ def second_number
   puts second_number
 end
 
-def sum
+def sum (first_number, second_number)
   sum = (first_number + second_number)
   puts sum
 end
