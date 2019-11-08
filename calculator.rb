@@ -1,8 +1,8 @@
-def first_number(number)
-  puts first_number = 10
+def first_number(first_number = 10)
+  puts #{first_number}
 end
 
-def second_number(number)
-  puts second_number = 2
+def second_number(second_number = 2)
+  puts #{second_number}
 end
 
