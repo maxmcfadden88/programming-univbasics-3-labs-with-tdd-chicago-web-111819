@@ -1,7 +1,5 @@
-./calculator.rb do
-  
-  def first_number(first_number = 10)
-  puts first_number
+  def first_number
+  puts first_number = 10
 end
 
 first_number
