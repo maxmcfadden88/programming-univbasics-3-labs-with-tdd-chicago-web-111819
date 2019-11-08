@@ -1,4 +1,4 @@
-./calculator.rb do 
+/calculator.rb do 
 first_number = 10
 end
 
