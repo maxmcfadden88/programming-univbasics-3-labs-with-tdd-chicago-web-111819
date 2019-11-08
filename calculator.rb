@@ -1,5 +1,5 @@
-def first_number
-  puts 10
+def first_number(10)
+  puts #{first_number}
 end
 
 def second_number 
