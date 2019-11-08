@@ -1,8 +1,6 @@
-first_number = 10
-  puts #{first_number}
-end
+./calculator.rb 
 
-def second_number(second_number = 2)
-  puts #{second_number}
-end
+first_number = 10
+second_number = 2
+
 
