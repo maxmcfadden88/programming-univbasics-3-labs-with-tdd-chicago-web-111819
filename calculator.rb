@@ -9,8 +9,7 @@ def second_number
 end
 
 def sum
-  return #{first_number} + #{second_number}
-  puts sum
+  puts #{first_number} + #{second_number}
 end
 
 sum
