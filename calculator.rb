@@ -1,4 +1,4 @@
-def first_number(10)
+def first_number()
   puts #{first_number}
 end
 
