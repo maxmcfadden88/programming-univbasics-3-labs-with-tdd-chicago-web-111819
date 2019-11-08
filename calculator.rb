@@ -1,5 +1,8 @@
-def ./calculator.rb (first_number, second_number)
-first_number = 10
-second_number = 2
+def first_number
+  puts 10
+end
+
+def second_number 
+  puts 2
 end
 
