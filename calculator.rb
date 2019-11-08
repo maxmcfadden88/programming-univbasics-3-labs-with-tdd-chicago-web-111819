@@ -7,3 +7,6 @@ def second_number
   second_number = 2
   puts second_number
 end
+
+first_number
+second_number
