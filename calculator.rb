@@ -10,7 +10,7 @@ def second_number
 end
 
 def sum (num1, num2) 
-   num1 + num2
+   puts num1 + num2
 end
 
-puts sum(first_number, second_number)
+sum(first_number, second_number)
