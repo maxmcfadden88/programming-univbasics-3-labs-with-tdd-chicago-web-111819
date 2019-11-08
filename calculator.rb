@@ -12,3 +12,5 @@ def sum (first_number, second_number)
   first_number + second_number
   puts sum
 end
+
+sum
