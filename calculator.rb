@@ -13,4 +13,14 @@ def sum (num1, num2)
    puts num1 + num2
 end
 
-sum(10, 2)
+def differnece (num1, num2) 
+   puts num1 - num2
+end
+
+def sum (num1, num2) 
+   puts num1 + num2
+end
+
+def sum (num1, num2) 
+   puts num1 + num2
+end
