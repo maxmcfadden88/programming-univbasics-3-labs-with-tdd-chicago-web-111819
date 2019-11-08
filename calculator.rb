@@ -13,4 +13,4 @@ def sum (num1, num2)
    puts num1 + num2
 end
 
-sum(first_number, second_number)
+sum(10, 2)
