@@ -1,4 +1,4 @@
-./calculartor.rb 
+./calculator.rb 
 
 def first_number
   first_number = 10
