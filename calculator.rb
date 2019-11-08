@@ -17,10 +17,15 @@ def differnece (num1, num2)
    puts num1 - num2
 end
 
-def sum (num1, num2) 
-   puts num1 + num2
+def product (num1, num2) 
+   puts num1 * num2
 end
 
-def sum (num1, num2) 
-   puts num1 + num2
+def quotient (num1, num2) 
+   puts num1 / num2
 end
+
+sum(10,2)
+difference(10,2)
+product(10,2)
+quotient(10,2)
