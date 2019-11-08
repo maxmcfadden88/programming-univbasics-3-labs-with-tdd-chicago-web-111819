@@ -9,9 +9,8 @@ def second_number
   puts second_number
 end
 
-def sum (a, b) 
-   a + b
-   puts (a + b)
+def sum (num1, num2) 
+   num1 + num2
 end
 
-sum(#{first_number}, #{second_number})
+sum(10,2)
