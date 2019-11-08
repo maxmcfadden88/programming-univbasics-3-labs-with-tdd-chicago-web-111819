@@ -11,6 +11,7 @@ end
 
 def sum (a, b) 
    a + b
+   puts a + b
 end
 
-sum(first_number, second_number)
+sum(#{first_number}, #{second_number})
