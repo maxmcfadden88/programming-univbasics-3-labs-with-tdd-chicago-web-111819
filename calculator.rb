@@ -1,4 +1,4 @@
-def "./calculator.rb" do 
+./calculator.rb do 
   
   def first_number
   puts first_number = 10
