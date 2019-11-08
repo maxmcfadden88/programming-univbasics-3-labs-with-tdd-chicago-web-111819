@@ -1,4 +1,6 @@
-def first_number
+./calculator.rb do 
+  
+  def first_number
   puts first_number = 10
 end
 
